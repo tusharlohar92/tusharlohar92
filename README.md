@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Lohar</h1>
-<h3 align="center">Backend Developer (Java & Spring) | Microservices | Generative AI | System Design</h3>
+<h3 align="center">Backend Developer (Java & Spring) • Microservices • Generative AI • Scalable Systems</h3>
 
 <p align="center">
-Focused on building scalable, secure backend systems and exploring AI-powered applications.
+Building secure, scalable backend systems and AI-powered applications with modern engineering practices.
 </p>
 
 <p align="center">
@@ -11,26 +11,27 @@ Focused on building scalable, secure backend systems and exploring AI-powered ap
 
 ---
 
-## 🧠 About Me
-- 🎓 Fresher backend developer from India  
-- 💻 Focused on **Java backend, Spring Boot & microservices**
-- 🤖 Exploring **Generative AI & AI-powered backend systems**
-- 🏗️ Learning **system design, scalable architecture & security**
-- 🚀 Building real-world backend + AI projects  
+## 👨‍💻 About Me
+- 🎓 Fresher Software Engineer from India  
+- ☕ Backend-focused developer specializing in **Java, Spring Boot & Microservices**  
+- 🤖 Actively building and integrating **Generative AI & AI-powered backend systems**  
+- 🏗️ Learning **system design, scalable architecture & secure engineering practices**  
+- 🔐 Interested in **secure, high-performance and distributed backend systems**  
+- 🚀 Focused on becoming a strong backend & AI engineer through real-world projects  
 
 ---
 
-## 🚀 Current Focus
-- Java & Spring Boot backend development  
+## 🎯 Current Focus
+- Backend engineering with Java & Spring Boot  
 - REST APIs & microservices architecture  
-- Authentication & security (JWT, OAuth)  
-- System design fundamentals  
-- Generative AI integration with backend  
-- Cloud & deployment learning  
+- Authentication & security (JWT, OAuth2)  
+- System design & scalable architecture  
+- Generative AI + backend integration  
+- Cloud, Docker & deployment  
 
 ---
 
-## 🛠️ Backend & Programming Languages
+## 🛠️ Languages
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
@@ -50,24 +51,13 @@ Focused on building scalable, secure backend systems and exploring AI-powered ap
 
 - Spring Boot & Spring MVC  
 - REST API development  
-- Spring Security & JWT authentication  
+- Spring Security & JWT  
 - Hibernate / JPA  
 - MVC architecture  
 
 ---
 
-## 🧩 Microservices & System Design (Learning)
-- Microservices architecture basics  
-- API Gateway concept  
-- Service communication  
-- Distributed system fundamentals  
-- Caching with Redis (learning)  
-- Message queues basics (Kafka/RabbitMQ)  
-- Scalable backend design principles  
-
----
-
-## 🤖 Generative AI & Python
+## 🧠 Generative AI & Python
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
@@ -98,7 +88,7 @@ Focused on building scalable, secure backend systems and exploring AI-powered ap
 
 ---
 
-## ☁️ Tools, Cloud & DevOps
+## ☁️ Tools & DevOps
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
@@ -116,7 +106,7 @@ Focused on building scalable, secure backend systems and exploring AI-powered ap
 
 ---
 
-## 🌐 Frontend (Supporting Skills)
+## 🌐 Frontend (Supporting)
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
@@ -125,17 +115,16 @@ Focused on building scalable, secure backend systems and exploring AI-powered ap
 
 - React.js  
 - HTML, CSS  
-- Basic UI integration with backend  
+- Frontend-backend integration  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 📧 Email: lohartushar92@gmail.com  
 💼 LinkedIn: linkedin.com/in/tushar-lohar-5935681a9  
 🐦 Twitter/X: twitter.com/tusshaarrrrr1  
 
 ---
-
 <p align="center">
-Backend-focused developer building scalable and secure applications while exploring modern AI technologies.
+Focused on building scalable backend systems and modern AI-powered applications.
 </p>
