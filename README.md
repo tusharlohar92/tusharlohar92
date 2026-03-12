@@ -144,7 +144,6 @@ Focused on building production-grade systems using **Java, Spring Boot, Microser
 # 📫 Connect With Me
 📧 Email: **lohartushar92@gmail.com**  
 💼 LinkedIn: **linkedin.com/in/tushar-lohar-5935681a9**  
-🐦 Twitter/X: **twitter.com/tusshaarrrrr1**
 
 ---
 
